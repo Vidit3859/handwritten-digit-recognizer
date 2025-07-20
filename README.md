@@ -69,6 +69,24 @@ model = load_model('mnist_digit_recognizer.h5')
 ### 🧪 Training Output
 ![Training Output](screenshots/training_output.png)
 
+### 🎯 Sample Predictions
+
+<p float="left">
+  <img src="screenshots/sample_prediction_0.png" width="45%" />
+  <img src="screenshots/sample_prediction_1.png" width="45%" />
+</p>
+<p float="left">
+  <img src="screenshots/sample_prediction_2.png" width="45%" />
+  <img src="screenshots/sample_prediction_3.png" width="45%" />
+</p>
+<p float="left">
+  <img src="screenshots/sample_prediction_4.png" width="45%" />
+  <img src="screenshots/sample_prediction_5.png" width="45%" />
+</p>
+
+### 📓 Notebook View
+![Notebook](screenshots/notebook_view.png)
+
 ---
 
 ## 📌 Author
