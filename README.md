@@ -57,7 +57,7 @@ To build a machine learning model that accurately classifies handwritten digits 
 3. Run all cells to train or test the model.
 4. Or load the `.h5` model for prediction.
 
-```python
+python
 from keras.models import load_model
 model = load_model('mnist_digit_recognizer.h5')```
 
