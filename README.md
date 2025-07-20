@@ -67,7 +67,7 @@ model = load_model('mnist_digit_recognizer.h5')
 ## 📷 Screenshots
 
 ### 🧪 Training Output
-![Training Output](screenshots/training_output.png) *(You can upload a screenshot image and replace this link.)*
+![Training Output](screenshots/training_output.png)
 
 ---
 
